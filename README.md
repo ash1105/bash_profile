@@ -1,2 +1,3 @@
-# bash_profile
-my bash_profile
+# my_environment
+* .bash_profile
+* .vscode
